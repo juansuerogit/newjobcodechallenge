@@ -1,4 +1,3 @@
-
 Please follow the directions below to verfiy the code works.
 below are 2 sections.  1st section has steps for running the test yourself.
 2nd section is output from running the steps myself on my computer
@@ -11,7 +10,7 @@ TEST RUN #1
 
 STEP1: run the program with the command 
 
-go run ibmcodechallenge.go 
+go run newjobcodechallenge.go 
 
 
 STEP2:  cut and paste to the command line:
@@ -28,7 +27,7 @@ TEST RUN #2
 
 STEP1: run the program with the command 
 
-go run ibmcodechallenge.go 
+go run newjobcodechallenge.go 
 
 
 STEP2:  cut and paste to the command line:
@@ -45,7 +44,7 @@ TEST RUN #2
 
 STEP1: run the program with the command 
 
-go run ibmcodechallenge.go 
+go run newjobcodechallenge.go 
 
 
 STEP2:  cut and paste to the command line:
@@ -71,9 +70,9 @@ THE FOLLOWING IS A SAMPLE RUN ON MY COMPUTER.
 
 TEST RUN #1
 
-metadojo@metadojoai:~/org/juansuero_ibm_codechallenge$ go run ibmcodechallenge.go 
+metadojo@metadojoai:~/org/juansuero_newjob_codechallenge$ go run newjobcodechallenge.go 
 
-IBM Code Challenge for dedellis@us.ibm.com.........
+newjob Code Challenge for ........
 
 PROBLEM TWO: SALES TAXES
 
@@ -99,9 +98,9 @@ Total: 29.83
 
 TEST RUN #2
 
-metadojo@metadojoai:~/org/juansuero_ibm_codechallenge$ go run ibmcodechallenge.go 
+metadojo@metadojoai:~/org/juansuero_newjob_codechallenge$ go run newjobcodechallenge.go 
 
-IBM Code Challenge for dedellis@us.ibm.com.........
+New Job Code Challenge for ........
 
 PROBLEM TWO: SALES TAXES
 
@@ -124,9 +123,9 @@ Total: 65.15
 
 TEST RUN #3
 
-metadojo@metadojoai:~/org/juansuero_ibm_codechallenge$ go run ibmcodechallenge.go 
+metadojo@metadojoai:~/org/juansuero_newjob_codechallenge$ go run newjobcodechallenge.go 
 
-IBM Code Challenge for dedellis@us.ibm.com.........
+newjob Code Challenge for .........
 
 PROBLEM TWO: SALES TAXES
 
